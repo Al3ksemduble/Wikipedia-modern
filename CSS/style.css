@@ -9,7 +9,7 @@ body{
 }
 header{
     height: 90px;
-    background-color: #d6d6d6;
+    background-color: #ffff;
     border-bottom: #545759 solid 1px;
 }
 header img{
@@ -34,6 +34,11 @@ article{
     background-color: #ffff;
     width: 100%;
 }
+figure{
+    display: flex;
+    padding: 10px;
+}
+
 .artigo{
     padding: 50px;
     margin-top: 30px;
